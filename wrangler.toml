@@ -1,2 +1,4 @@
+name = "hdu-sd-tools"
+pages_build_output_dir = "public"
 [vars]
 HUGO_VERSION = "0.164.0"
